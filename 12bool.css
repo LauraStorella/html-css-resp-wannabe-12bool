@@ -16,12 +16,12 @@
 
 /* REGOLE FRAMEWORK */
 /* Inizio regole Reset */
-/* reset {}
+reset {}
   * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-  } */
+  }
 /* Fine regole Reset */
 
 /* Inizio regole Container */
