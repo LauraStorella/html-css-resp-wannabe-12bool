@@ -24,12 +24,12 @@
 }
 
 /* BLOCCO STEPS */
-#steps .container>.left,
+/* #steps .container>.left,
 #steps .container>.central,
 #steps .container>.right {
   float: left;
   width: 33%;
-}
+} */
 
 #steps {
   text-align: center;

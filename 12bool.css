@@ -125,7 +125,7 @@ xs offset {}
 
 /* Colonne MD */
 md colonne {}
-  @media all and (min-width: 768px) and (max-width: 992px) {
+  @media all and (min-width: 769px) and (max-width: 991px) {
     .col-md-1 {
       width: calc(100% / 12 * 1)
     }
@@ -166,7 +166,7 @@ md colonne {}
 
 /* Offset MD */
 md offset {}
-  @media all and (min-width: 768px) and (max-width: 992px)  {
+  @media all and (min-width: 769px) and (max-width: 991px)  {
     .col-md-offset-1 {
       margin-left: calc(100% / 12 * 1)
     }
