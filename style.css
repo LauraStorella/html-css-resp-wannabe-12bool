@@ -94,3 +94,12 @@ img {
     margin: 10px 0;
   }
 }
+
+@media all and (min-width: 769px) and (max-width: 1170px) {
+  h1 {
+    margin-bottom: 20px;
+  }
+  img {
+    margin: 10px 0;
+  }
+}
